@@ -56,19 +56,23 @@ This will launch the **Personal Fitness Tracker** in your default web browser.
 ## **Screenshots**
 
 ### **User Input & Prediction**
-![User Input](sandbox:/mnt/data/Screenshot%202025-03-06%20123515.png)
+![User Input](Screenshots/1.png)
+
 
 ### **Activity Intensity Chart**
-![Activity Intensity](sandbox:/mnt/data/Screenshot%202025-03-06%20123537.png)
+![Activity Intensity](Screenshots/chart.png)
 
 ### **Exercise & Diet Recommendations**
-![Recommendations](sandbox:/mnt/data/Screenshot%202025-03-06%20123606.png)
+![Activity Intensity](Screenshots/R.png)
+
 
 ### **Similar Results & Data Insights**
-![Similar Results](sandbox:/mnt/data/Screenshot%202025-03-06%20123640.png)
+![Similar Results](Screenshots/A.png)
+
 
 ### **User Input Panel**
-![Input Panel](sandbox:/mnt/data/Screenshot%202025-03-06%20123656.png)
+![Input Panel](Screenshots/I.png)
+
 
 ---
 
