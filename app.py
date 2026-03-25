@@ -138,3 +138,4 @@ for i in range(100):
 calorie_range = [prediction[0] - 10, prediction[0] + 10]
 similar_data = exercise_df[(exercise_df["Calories"] >= calorie_range[0]) & (exercise_df["Calories"] <= calorie_range[1])]
 st.write(similar_data.sample(5))
+
